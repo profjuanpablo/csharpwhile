@@ -31,4 +31,3 @@ while (inicial<=final)
     inicial += 1;
 }
 
-Console.Write("Novo COnteúdo inserido no código");
