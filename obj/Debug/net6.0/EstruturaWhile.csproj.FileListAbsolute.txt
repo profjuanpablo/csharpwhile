@@ -1,0 +1,15 @@
+D:\impacta\CSharp\Capitulo02\EstruturaWhile\bin\Debug\net6.0\EstruturaWhile.exe
+D:\impacta\CSharp\Capitulo02\EstruturaWhile\bin\Debug\net6.0\EstruturaWhile.deps.json
+D:\impacta\CSharp\Capitulo02\EstruturaWhile\bin\Debug\net6.0\EstruturaWhile.runtimeconfig.json
+D:\impacta\CSharp\Capitulo02\EstruturaWhile\bin\Debug\net6.0\EstruturaWhile.dll
+D:\impacta\CSharp\Capitulo02\EstruturaWhile\bin\Debug\net6.0\EstruturaWhile.pdb
+D:\impacta\CSharp\Capitulo02\EstruturaWhile\obj\Debug\net6.0\EstruturaWhile.csproj.AssemblyReference.cache
+D:\impacta\CSharp\Capitulo02\EstruturaWhile\obj\Debug\net6.0\EstruturaWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\impacta\CSharp\Capitulo02\EstruturaWhile\obj\Debug\net6.0\EstruturaWhile.AssemblyInfoInputs.cache
+D:\impacta\CSharp\Capitulo02\EstruturaWhile\obj\Debug\net6.0\EstruturaWhile.AssemblyInfo.cs
+D:\impacta\CSharp\Capitulo02\EstruturaWhile\obj\Debug\net6.0\EstruturaWhile.csproj.CoreCompileInputs.cache
+D:\impacta\CSharp\Capitulo02\EstruturaWhile\obj\Debug\net6.0\EstruturaWhile.dll
+D:\impacta\CSharp\Capitulo02\EstruturaWhile\obj\Debug\net6.0\refint\EstruturaWhile.dll
+D:\impacta\CSharp\Capitulo02\EstruturaWhile\obj\Debug\net6.0\EstruturaWhile.pdb
+D:\impacta\CSharp\Capitulo02\EstruturaWhile\obj\Debug\net6.0\EstruturaWhile.genruntimeconfig.cache
+D:\impacta\CSharp\Capitulo02\EstruturaWhile\obj\Debug\net6.0\ref\EstruturaWhile.dll
